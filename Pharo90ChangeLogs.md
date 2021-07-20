@@ -152,7 +152,7 @@ SpAbstractPresenter << #SpPresenter
 
 This class definition is optional in Pharo 9 and will be the default version of Pharo 10.
 
-##Microdown
+## Microdown
 Class comments are now written in Microdown, a retro-compatible version of Markdown
 extended with Pillar features. In addition, any class can customize the rendering of the comments
 and enhance it.  
